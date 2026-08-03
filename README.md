@@ -12,7 +12,7 @@ To automatically identify helmet violations from traffic images and videos for i
 - YOLO
 - OpenCV
 - Roboflow Dataset
-- NVIDIA GPU
+  
 
 ## Input
 Traffic image/video
@@ -23,3 +23,4 @@ Detection of riders with and without helmets and the processed output video.
 ## Developed By
 Nithin Kumar H
 B.Tech CSE (Cyber Security)
+20241CCS0112
